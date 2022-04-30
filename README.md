@@ -1,7 +1,11 @@
-### Hi there👋
+## Hi there👋
+### Too lazy to update :3 
+- 🔭 I know a little bit of (Have working Projects) :javascrypt (Vanilla , ES6 , Node , Express), Php , laravel , Blender, Python , Django , Java , C++
+- 🌱 I’m currently learning : React 
+- 📫 How to reach me: Facebook : fb.com/shakil.ahmed15
+- last updated 1/5/2022
 
-<!--
-**shakil2995/shakil2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **shakil2995/shakil2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
