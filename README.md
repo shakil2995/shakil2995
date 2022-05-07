@@ -2,7 +2,11 @@
 ### Too lazy to update :3 
 - 🔭 I know a little bit of (Have working Projects) :javascrypt (Vanilla , ES6 , Node , Express), Php , laravel , Blender, Python , Django , Java , C++, Solidity
 - 🌱 I’m currently learning : React 
-- 📫 How to reach me: Facebook : https://www.facebook.com/shakil.ahmed15
+- 📫 How to reach me: 
+  - Portfolio : https://shakil2995.github.io/BasicHtmlPortfolio/index.html 
+  - Facebook : https://www.facebook.com/shakil.ahmed15
+  - LinkedIn : https://www.linkedin.com/in/shakil2995/                     
+- Projects : https://shakil2995.github.io/WebDevelopment/
 - 👯 I would love to collaborate on Web Apps , DAPPs
 - last updated 1/5/2022
 
