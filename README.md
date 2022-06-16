@@ -1,6 +1,6 @@
 ## Hi there👋
 ### Too lazy to update :3 
-- 🔭 I know a little bit of (Have working Projects) :javascrypt (Vanilla , ES6 , Node , Express), Php , laravel , Blender, Python , Django , Java , C++, Solidity
+- 🔭 I know a little bit of (Have working Projects) :javascript (Vanilla , ES6 , Node , Express), Php , laravel , Blender, Python , Django , Java , C++, Solidity
 - 🌱 I’m currently learning : React 
 - 📫 How to reach me: 
   - Portfolio : https://shakil2995.github.io/BasicHtmlPortfolio/index.html 
