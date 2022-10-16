@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
 <h3 align="center">I am a Software Engineer from Dhaka,Bangladesh</h3>
 
-- 🔭 I’m currently working on **Firebase Authentication**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **React native**
 
