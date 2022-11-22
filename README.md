@@ -8,6 +8,7 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **shakil2995@gmail.com**
+- Basic portfolio : **https://shakil2995.github.io/BasicHtmlPortfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
