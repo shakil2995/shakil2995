@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
 <h3 align="center">I am a Software Engineer from Dhaka,Bangladesh</h3>
 
-- 🔭 I’m currently working on an android app using Flutter
+- 🔭 I’m currently working on an **Android app using Flutter**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Mobile / web app development**
 
 - 📫 How to reach me **shakil2995@gmail.com**
 - Basic portfolio : **https://shakil2995.github.io/BasicHtmlPortfolio/**
