@@ -27,7 +27,7 @@
 - Successfully delivered over five full-stack projects as a solo developer for local clients.
 
 ## Projects
-- BudgetMate - Multi-budget manager: Live at play store : https://play.google.com/store/apps/details?id=com.winningbees.budgetmate&hl=en&gl=US
+- BudgetMate - Multi-budget manager: Live at play store : https://tinyurl.com/efhj5499
 - Ushuttle - Shuttle bus service Flutter app: https://github.com/shakil2995/Ushuttle
 - Student-performance-monitor: https://tinyurl.com/5n6we7xm
 - Personal website/portfolio: https://shakil2995.github.io/BasicHtmlPortfolio/
