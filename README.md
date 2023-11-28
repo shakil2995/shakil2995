@@ -11,7 +11,7 @@
 - Scripting/programming languages: JavaScript (ES6+), Dart, Python, PHP, C++, Java
 - Web stack: MERN Stack, Next.js
 - Databases: MySQL, MongoDB, Firebase
-- Mobile app development: Flutter
+- Mobile app development: Flutter (ios and Android)
 - Understanding of API and API tools: RESTful API, Postman, Insomnia
 - Experience with SDLC: SCRUM and Agile
 - Competitive programming: Codeforces
@@ -21,6 +21,7 @@
 - Operating system: Windows, Linux and macOS
 
 ## Experience
+- Published two FLutter apps to the Play Store
 - Developed a comprehensive Android application for a transportation company utilizing Flutter, Node.js and Firebase.
 - Led a full-stack project consisting of a group of six members using the Agile method.
 - Gained professional experience as a freelancer on Fiverr.
@@ -28,13 +29,13 @@
 
 ## Projects
 - QRMate: All-in-one QR scanner: Live at Play Store: https://play.google.com/store/apps/details?id=com.winningbees.qrmate
-- BudgetMate - Multi-budget manager: Live at play store: https://tinyurl.com/efhj5499
+- BudgetMate - Multi-budget manager: Live at Play Store: https://tinyurl.com/efhj5499
 - Ushuttle - Shuttle bus service Flutter app: https://github.com/shakil2995/Ushuttle
 - Student-performance-monitor: https://tinyurl.com/5n6we7xm
 - Personal website/portfolio: https://shakil2995.github.io/BasicHtmlPortfolio/
 - Github: https://github.com/shakil2995
 
 ## Preferred Roles
-- Fullstack Web Developer
 - Mobile App Developer
+- Fullstack Web Developer
 - Backend Developer
