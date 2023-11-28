@@ -29,6 +29,7 @@
 
 ## Projects
 - QRMate: All-in-one QR scanner: Live at Play Store: https://play.google.com/store/apps/details?id=com.winningbees.qrmate
+- (Updated) IslamicBrain: Elite Muslim App. See it live on Playstore : https://play.google.com/store/apps/details?id=com.winningbees.islamicbrain
 - BudgetMate - Multi-budget manager: Live at Play Store: https://tinyurl.com/efhj5499
 - Ushuttle - Shuttle bus service Flutter app: https://github.com/shakil2995/Ushuttle
 - Student-performance-monitor: https://tinyurl.com/5n6we7xm
