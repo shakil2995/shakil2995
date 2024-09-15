@@ -4,7 +4,7 @@
 - Degree: B.Sc. in Computer Science and Engineering
 - Institution: Independent University, Bangladesh (IUB)
 - Department: School of Engineering (B.Sc.)
-- Minor: MIS
+- Minor: Management Information System (MIS)
 - Active Year: 2017-2022
 
 ## Technical Skills
